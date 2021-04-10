@@ -1,0 +1,45 @@
+h1{
+text-align:center;
+}
+body{
+margin: 0;
+font: 500 25px Rubik,sans-serif;
+line-height: 1.5;
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(36,29,253,1) 43%, rgba(204,69,252,1) 100%);
+}
+#beginning{
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(68,0,255,1) 100%);
+font: 500 50px Rubik,sans-serif;
+line-height: 1.5;
+margin: 0;
+color:#7CFC00
+}
+h1{
+margin:0;
+}
+#orzivi{
+background-color:#FF6347;
+}
+.italia{
+font-style:italic;
+}
+.fat{
+font-weight:bold;
+}
+#content{
+width:60%;
+margin:0 auto;
+color:white;
+}
+.history{
+font-style:italic;
+border: 3px solid #a13941;
+color:black;
+background-color: #fcf6f5;
+padding:1em;
+}
+a{
+color:red;
+}
